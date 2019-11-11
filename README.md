@@ -49,7 +49,7 @@ https://www.geeksforgeeks.org/python-program-check-string-palindrome-not/
 https://www.tutorialspoint.com/python/python_reg_expressions.htm
 
 
-##Authors and acknowledgment
+## Authors and acknowledgment
 
 Created by Syed Kumail Anis along with assistance by Riley Powell
 
